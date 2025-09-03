@@ -1,6 +1,6 @@
 # **Hey there, I'm Rachel 👋**
 
-I'm a full-stack developer passionate about building scalable infrastructure and real-time applications. I specialize in creating developer tools that solve real problems and help teams build better software faster. When I'm not coding, you can find me exploring Chicago and learning about the latest in the world of 1's and 0's.
+I'm a full stack software engineer with multiple years working with Ruby, JavaScript, TypeScript, and Python.
 
 **🚀 Pendulum BaaS**
 
