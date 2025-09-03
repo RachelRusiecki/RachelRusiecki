@@ -1,6 +1,6 @@
 # **Hey there, I'm Rachel 👋**
 
-I'm a full stack software engineer with multiple years working with Ruby, JavaScript, TypeScript, and Python.
+I'm a full stack software engineer with multiple years experience working with Ruby, JavaScript, TypeScript, and Python.
 
 **🚀 Pendulum BaaS**
 
